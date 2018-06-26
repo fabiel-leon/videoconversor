@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-03-25T18:16:11</date>
+  <millis>1364235371750</millis>
+  <sequence>0</sequence>
+  <logger>cu.com.fabiel.Convertidor</logger>
+  <level>SEVERE</level>
+  <class>cu.com.fabiel.Convertidor</class>
+  <method>main</method>
+  <thread>1</thread>
+  <exception>
+    <message>java.nio.file.NoSuchFileException: D:\Videos\Nueva carpeta</message>
+    <frame>
+      <class>sun.nio.fs.WindowsException</class>
+      <method>translateToIOException</method>
+      <line>79</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsException</class>
+      <method>asIOException</method>
+      <line>106</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsWatchService$Poller</class>
+      <method>implRegister</method>
+      <line>344</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.AbstractPoller</class>
+      <method>processRequests</method>
+      <line>260</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsWatchService$Poller</class>
+      <method>run</method>
+      <line>531</line>
+    </frame>
+    <frame>
+      <class>java.lang.Thread</class>
+      <method>run</method>
+      <line>722</line>
+    </frame>
+  </exception>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-03-26T02:19:06</date>
+  <millis>1364264346878</millis>
+  <sequence>0</sequence>
+  <logger>cu.com.fabiel.Convertidor</logger>
+  <level>SEVERE</level>
+  <class>cu.com.fabiel.Convertidor</class>
+  <method>main</method>
+  <thread>1</thread>
+  <exception>
+    <message>java.nio.file.NoSuchFileException: F:\Fabiel\Documentos\Tutoriales\Ingles sin Barreras\Videos</message>
+    <frame>
+      <class>sun.nio.fs.WindowsException</class>
+      <method>translateToIOException</method>
+      <line>79</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsException</class>
+      <method>rethrowAsIOException</method>
+      <line>97</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsException</class>
+      <method>rethrowAsIOException</method>
+      <line>102</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsFileAttributeViews$Basic</class>
+      <method>readAttributes</method>
+      <line>53</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsFileAttributeViews$Basic</class>
+      <method>readAttributes</method>
+      <line>38</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsFileSystemProvider</class>
+      <method>readAttributes</method>
+      <line>192</line>
+    </frame>
+    <frame>
+      <class>java.nio.file.Files</class>
+      <method>readAttributes</method>
+      <line>1675</line>
+    </frame>
+    <frame>
+      <class>java.nio.file.FileTreeWalker</class>
+      <method>walk</method>
+      <line>105</line>
+    </frame>
+    <frame>
+      <class>java.nio.file.FileTreeWalker</class>
+      <method>walk</method>
+      <line>69</line>
+    </frame>
+    <frame>
+      <class>java.nio.file.Files</class>
+      <method>walkFileTree</method>
+      <line>2591</line>
+    </frame>
+    <frame>
+      <class>java.nio.file.Files</class>
+      <method>walkFileTree</method>
+      <line>2624</line>
+    </frame>
+    <frame>
+      <class>cu.com.fabiel.Convertidor$DirectoryObserver</class>
+      <method>registrarTodos</method>
+      <line>182</line>
+    </frame>
+    <frame>
+      <class>cu.com.fabiel.Convertidor$DirectoryObserver</class>
+      <method>&lt;init&gt;</method>
+      <line>158</line>
+    </frame>
+    <frame>
+      <class>cu.com.fabiel.Convertidor</class>
+      <method>main</method>
+      <line>410</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-03-26T02:20:02</date>
+  <millis>1364264402389</millis>
+  <sequence>0</sequence>
+  <logger>cu.com.fabiel.Convertidor</logger>
+  <level>SEVERE</level>
+  <class>cu.com.fabiel.Convertidor</class>
+  <method>main</method>
+  <thread>1</thread>
+  <exception>
+    <message>java.nio.file.NoSuchFileException: F:\Fabiel\Documentos\Tutoriales\Ingles sin Barreras\Videos</message>
+    <frame>
+      <class>sun.nio.fs.WindowsException</class>
+      <method>translateToIOException</method>
+      <line>79</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsException</class>
+      <method>rethrowAsIOException</method>
+      <line>97</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsException</class>
+      <method>rethrowAsIOException</method>
+      <line>102</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsFileAttributeViews$Basic</class>
+      <method>readAttributes</method>
+      <line>53</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsFileAttributeViews$Basic</class>
+      <method>readAttributes</method>
+      <line>38</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsFileSystemProvider</class>
+      <method>readAttributes</method>
+      <line>192</line>
+    </frame>
+    <frame>
+      <class>java.nio.file.Files</class>
+      <method>readAttributes</method>
+      <line>1675</line>
+    </frame>
+    <frame>
+      <class>java.nio.file.FileTreeWalker</class>
+      <method>walk</method>
+      <line>105</line>
+    </frame>
+    <frame>
+      <class>java.nio.file.FileTreeWalker</class>
+      <method>walk</method>
+      <line>69</line>
+    </frame>
+    <frame>
+      <class>java.nio.file.Files</class>
+      <method>walkFileTree</method>
+      <line>2591</line>
+    </frame>
+    <frame>
+      <class>java.nio.file.Files</class>
+      <method>walkFileTree</method>
+      <line>2624</line>
+    </frame>
+    <frame>
+      <class>cu.com.fabiel.Convertidor$DirectoryObserver</class>
+      <method>registrarTodos</method>
+      <line>182</line>
+    </frame>
+    <frame>
+      <class>cu.com.fabiel.Convertidor$DirectoryObserver</class>
+      <method>&lt;init&gt;</method>
+      <line>158</line>
+    </frame>
+    <frame>
+      <class>cu.com.fabiel.Convertidor</class>
+      <method>main</method>
+      <line>412</line>
+    </frame>
+  </exception>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-03-27T18:31:11</date>
+  <millis>1364409071685</millis>
+  <sequence>0</sequence>
+  <logger>cu.com.fabiel.Convertidor</logger>
+  <level>SEVERE</level>
+  <class>cu.com.fabiel.Convertidor$Converter</class>
+  <method>run</method>
+  <thread>20</thread>
+  <exception>
+    <message>java.nio.file.FileSystemException: D:\Videos\Prueba\prueba\Copia (2) de Copia estudio pf pe2.mpg -&gt; D:\Videos\Prueba\prueba\Copia-(2)-de-Copia-estudio-pf-pe2.mpg: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+</message>
+    <frame>
+      <class>sun.nio.fs.WindowsException</class>
+      <method>translateToIOException</method>
+      <line>86</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsException</class>
+      <method>rethrowAsIOException</method>
+      <line>97</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsFileCopy</class>
+      <method>move</method>
+      <line>387</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsFileSystemProvider</class>
+      <method>move</method>
+      <line>286</line>
+    </frame>
+    <frame>
+      <class>java.nio.file.Files</class>
+      <method>move</method>
+      <line>1345</line>
+    </frame>
+    <frame>
+      <class>cu.com.fabiel.Convertidor$Converter</class>
+      <method>run</method>
+      <line>338</line>
+    </frame>
+    <frame>
+      <class>java.lang.Thread</class>
+      <method>run</method>
+      <line>722</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2013-03-27T18:31:12</date>
+  <millis>1364409072542</millis>
+  <sequence>1</sequence>
+  <logger>cu.com.fabiel.Convertidor</logger>
+  <level>SEVERE</level>
+  <class>cu.com.fabiel.Convertidor$Converter</class>
+  <method>run</method>
+  <thread>20</thread>
+  <exception>
+    <message>java.nio.file.FileSystemException: D:\Videos\Prueba\prueba\Yakarta - A Media Luz (Clips Oficial 2011).mpg -&gt; D:\Videos\Prueba\prueba\Yakarta---A-Media-Luz-(Clips-Oficial-2011).mpg: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+</message>
+    <frame>
+      <class>sun.nio.fs.WindowsException</class>
+      <method>translateToIOException</method>
+      <line>86</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsException</class>
+      <method>rethrowAsIOException</method>
+      <line>97</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsFileCopy</class>
+      <method>move</method>
+      <line>387</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsFileSystemProvider</class>
+      <method>move</method>
+      <line>286</line>
+    </frame>
+    <frame>
+      <class>java.nio.file.Files</class>
+      <method>move</method>
+      <line>1345</line>
+    </frame>
+    <frame>
+      <class>cu.com.fabiel.Convertidor$Converter</class>
+      <method>run</method>
+      <line>338</line>
+    </frame>
+    <frame>
+      <class>java.lang.Thread</class>
+      <method>run</method>
+      <line>722</line>
+    </frame>
+  </exception>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-03-27T18:46:26</date>
+  <millis>1364409986582</millis>
+  <sequence>0</sequence>
+  <logger>cu.com.fabiel.Convertidor</logger>
+  <level>SEVERE</level>
+  <class>cu.com.fabiel.Convertidor$Converter</class>
+  <method>run</method>
+  <thread>20</thread>
+  <exception>
+    <message>java.nio.file.FileSystemException: D:\Videos\Prueba\prueba\MICHA - LOCO (PMM) 2011--- OKKK.mp4[h264].avi: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+</message>
+    <frame>
+      <class>sun.nio.fs.WindowsException</class>
+      <method>translateToIOException</method>
+      <line>86</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsException</class>
+      <method>rethrowAsIOException</method>
+      <line>97</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsException</class>
+      <method>rethrowAsIOException</method>
+      <line>102</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.WindowsFileSystemProvider</class>
+      <method>implDelete</method>
+      <line>268</line>
+    </frame>
+    <frame>
+      <class>sun.nio.fs.AbstractFileSystemProvider</class>
+      <method>delete</method>
+      <line>103</line>
+    </frame>
+    <frame>
+      <class>java.nio.file.Files</class>
+      <method>delete</method>
+      <line>1077</line>
+    </frame>
+    <frame>
+      <class>cu.com.fabiel.Convertidor$Converter</class>
+      <method>run</method>
+      <line>362</line>
+    </frame>
+    <frame>
+      <class>java.lang.Thread</class>
+      <method>run</method>
+      <line>722</line>
+    </frame>
+  </exception>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
